@@ -5,7 +5,7 @@ This work inspired by the following paper: [Intagram Fake and Automated Account 
 
 ### Dataset Structures
 
-The dataset contains of 1 set of json file with given features:
+The dataset contains of 2 set of json files with given features:
 
 ##### Fake Account Detection
 1. `user_media_count` - Total number of posts, an account has.
