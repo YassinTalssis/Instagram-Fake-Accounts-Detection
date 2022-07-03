@@ -18,4 +18,4 @@ The dataset contains of 2 set of json files with given features:
 8. `username_digit_count` - Number of digits present in account username.
 9. `is_fake` - True, if account is a spam/fake account, False otherwise
 
-##### You canb run the code in kaggel(the enverment that we used)
+##### Kaggel our dev enverment, you can use it to run this code
