@@ -1,4 +1,4 @@
-# Fake_Accounts_Classifier_In_Instagram
+# Instagram-Fake-Accounts-Detection
 This work inspired by the following paper: [Intagram Fake and Automated Account Detection](https://arxiv.org/pdf/1910.03090.pdf)
 
 [dataset link](https://github.com/fcakyon/instafake-dataset/tree/master/data/fake-v1.0)
